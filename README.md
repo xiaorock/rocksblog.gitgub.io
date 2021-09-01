@@ -1,1 +1,1 @@
-rocksblog.gitgub.io
+rocksblog.github.io
